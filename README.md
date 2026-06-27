@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
