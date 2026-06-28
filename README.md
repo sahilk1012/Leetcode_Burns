@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
