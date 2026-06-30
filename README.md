@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
