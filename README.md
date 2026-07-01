@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -28,6 +29,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -36,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -50,4 +53,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
