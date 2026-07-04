@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
