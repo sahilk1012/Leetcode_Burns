@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
