@@ -4,12 +4,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0344-reverse-string) |
 ## Array
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
