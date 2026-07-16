@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
