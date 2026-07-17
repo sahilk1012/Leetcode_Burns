@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0067-add-binary) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
