@@ -27,16 +27,19 @@
 | [0066-plus-one](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilk1012/Leetcode_Burns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -85,8 +88,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
