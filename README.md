@@ -111,7 +111,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0169-majority-element) |
-## Trie
+## Tree
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilk1012/Leetcode_Burns/tree/master/0014-longest-common-prefix) |
